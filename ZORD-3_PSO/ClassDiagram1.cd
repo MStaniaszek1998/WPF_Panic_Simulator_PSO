@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ZORD_3_PSO.KontrolerPSO" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAIAAACIAAAgCAAACUAAABMACAAABAgACQAAAAEE=</HashCode>
+      <FileName>KontrolerPSO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.AnimacjaPSO" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAYAAAAAAAACA=</HashCode>
+      <FileName>Animacja.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.Auto" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Auto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.GetRandomNum" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>GetRandomNum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.Mapa" Collapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgABAAICAAAgAAAAIAAAAIAEAAggBAAIIAAABEA=</HashCode>
+      <FileName>Mapa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.MenuPSO" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAACkIAAgCAQAAAFAABAAAAQAAAAABAAACAAACAhCA=</HashCode>
+      <FileName>MenuPSO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.RandomMersenne" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAABACAAAAAAAAAAAAAQAAABAAgCAAAAAAAAAA=</HashCode>
+      <FileName>Mersenne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.Particle" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAIAABAAAgAACAAAEQkAABQBAAAQQAEAAEABA=</HashCode>
+      <FileName>Particle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.PSO" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAgAEIAACAIAAAEBgAGQAIAAAAAAAAEAABQAQAEABA=</HashCode>
+      <FileName>PSO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.PSOBuilder" Collapsed="true">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAEAiAAJAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>PSOBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.PSOInput" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAQAAAAAAAAAEACAAJAAgACAAAAAAAAAA=</HashCode>
+      <FileName>PSOInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.Punkt" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>Punkt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.PunktGrid" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAACAAAAAAAAAAAACAAAABgAAAAYAA=</HashCode>
+      <FileName>PunktGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZORD_3_PSO.Zwiadowca" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zwiadowca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ZORD_3_PSO.Zdjecia" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAEAAAAAIAAABAAAAABAACAAAAgIAAAACAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ZORD_3_PSO.Parametry" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAEACAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
